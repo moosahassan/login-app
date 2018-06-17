@@ -12,7 +12,7 @@
 
 A simple react+redux application to login a user:
 
-
+![Alt Text](https://media.giphy.com/media/PPUCaqG0kXbtKrIQig/giphy.gif)
 
 ## Installing
 
